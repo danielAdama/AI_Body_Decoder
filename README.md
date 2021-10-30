@@ -1,4 +1,4 @@
-# AI_Body_Decoder
+# AI-Body-Decoder
 Successfully built an Artificial Intelligent Body Decoder System using Sklearn, OpenCV, etc. to identify when a person is Sad, Happy, Neutral, Wakanda and Victorious
 ![Screenshot (665)](https://user-images.githubusercontent.com/63624329/136042242-1c9d93d5-511c-4cc3-8a28-eda08414364c.png)
 ![Screenshot (666)](https://user-images.githubusercontent.com/63624329/136042251-38f961dc-d203-4aac-a821-4fe4e973ebfb.png)
